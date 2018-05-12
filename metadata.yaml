@@ -1,0 +1,33 @@
+_repo: Our-Admirable-Betty--A-Romance_33597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, Jack
+    - Farnol, Jeffrey
+    - Farnol, John Jeffery
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: ''
+gutenberg_issued: '2010-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'England -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PR'
+title: 'Our Admirable Betty: A Romance'
+url: http://www.gutenberg.org/ebooks/33597
